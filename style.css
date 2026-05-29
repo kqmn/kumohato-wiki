@@ -1,0 +1,32 @@
+body {
+  background: #cebb9e;
+  margin-left: 25px;
+}
+
+.title {
+  color: #eee;
+  font-size: 16px;
+  text-align: center;
+}
+
+.subtitle {
+  color: #eee;
+  font-size: 18px;
+  text-align: center;
+}
+
+.document {
+  border-color: #0ff;
+  background: #9ff;
+  width: 200px;
+  height: 115px;
+}
+
+.document1 {
+  font-family: 'Segoe UI';
+  font-size: 14px;
+}
+
+.document2 {
+  font-size: 30px;
+}
